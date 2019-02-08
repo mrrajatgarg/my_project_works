@@ -27,3 +27,10 @@ Input Image 1 -- street view 1
 Result on Image 1 - after Object Detection
 
 ![alt text](https://camo.githubusercontent.com/571e2241d3a00ce01ca9313950ab995282d77d20/68747470733a2f2f692e6962622e636f2f4e314e4e6766622f6361722d696d6167652d66726f6d2d7374726565742d322d6e65772e6a7067)
+
+For more information about the project, results and the complete code, go to link:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/ObjectDetectionCars.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/ObjectDetectionCars.ipynb)
+
+
+
