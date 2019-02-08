@@ -260,7 +260,7 @@ will upload soon.
 
 **Website**
 
-It's a blogging website build using Django Framework. See the website:
+It's a blogging website build by me just for fun using Django Framework. See the website:
 
 [http://pythonwebsite.appspot.com/](http://pythonwebsite.appspot.com/)
 
