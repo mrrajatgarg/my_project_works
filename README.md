@@ -1,2 +1,5 @@
-# my_project_works
-This repository contains the major projects work that i have done till now (8th February 2019)
+# Major Projects Till 8th February 2019
+
+This repository contains the major projects work that i have done till now (8th February 2019).
+
+Hardware + Machine Learning(ML) Project
