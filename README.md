@@ -256,7 +256,21 @@ Following algorithms and research papers and studied and implemented :-
 
 Results:
 
-will upload soon.
+Results
+
+Input Documents:
+
+documents = [ "Machine Learning and Deep Learning will change the world!",
+
+         "Machine Learning and Deep Learning has the potential to change the world!",
+
+         "Blockchain can change the world in future!"]
+         
+Similarity between documents:
+
+SImilarity between Document 1 and Document 2: 72%
+
+Similarity between Document 1 and Document 3: 18%
 
 **Website**
 
