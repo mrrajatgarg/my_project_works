@@ -33,4 +33,25 @@ For more information about the project, results and the complete code, go to lin
 [https://github.com/mrrajatgarg/my_project_works/blob/master/ObjectDetectionCars.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/ObjectDetectionCars.ipynb)
 
 
+**2. License Plate Detection**
+
+License Plate Recognition Systems use the concept of optical character recognition to read the characters on a vehicle license plate.
+
+License Plate Recognition algorithm takes the image of a vehicle as the input and outputs the characters written on its license plate.
+
+**Results**
+
+Input - Image 1:
+
+![alt text](https://camo.githubusercontent.com/04d4be8baa6f636132a76a1f40cdcb02fbddd495/68747470733a2f2f692e6962622e636f2f78584e706d5a312f636172322e706e67)
+
+Result on Image 1 - after license plate detection
+
+A red Bounding Box around license plate is created.
+
+![alt text](https://camo.githubusercontent.com/78a3b55000534fe033c4e312423dd7dadbfbd7c2/68747470733a2f2f692e6962622e636f2f7450356a3239592f6c6963656e73652d706c6174652d646574656374696f6e2d6e65772e6a7067)
+
+
+
+
 
