@@ -142,3 +142,51 @@ OO ATTRACTION
 This restoration is a project of the Route 66 Association of
 
 on the National Register of Historic Places.
+
+More more information and results and code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb)
+
+**(B) Text to Speech Conversion (ASR)**
+
+Google Cloud Speech-to-Text enables developers to convert audio to text by applying powerful neural network models in an easy-to-use API. The API recognizes 120 languages and variants to support your global user base.
+
+Results :
+
+![alt text](https://camo.githubusercontent.com/73aebc80078674423fb5465a631373afbe64931a/68747470733a2f2f692e6962622e636f2f566d7642384e682f7370656563682d746f2d746578742e6a7067253232)
+
+for more info on code and results, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb)
+
+**(C) Machine Translation**
+
+The Machine Translation API uses state-of-the-art deep learning algorithms to convert text from one language (say English) to another language (say hindi)
+
+Results
+
+![alt text](https://camo.githubusercontent.com/61f76900b339cfa8ca5c391b62357fe23574673a/68747470733a2f2f692e6962622e636f2f325a47766d6e302f6d616368696e652d7472616e736c6174696f6e2e6a7067)
+
+for more info, code and results, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb)
+
+**(D) Sentiment Analysis**
+
+Sentiment Analysis is about determining the opinion or feeling of a piece of text.
+
+Results
+
+Input text 1: "To succeed, you must have tremendous perseverance, tremendous will."
+
+Output Sentiment: POLARITY=1 MAGNITUDE=0.9 (This means that the algorithm detect the text as positive with a magnitude 0.9)
+
+Input text 2: "It’s not that I’m so smart, it’s just that I stay with problems longer."
+
+Output Sentiment: POLARITY=-1 MAGNITUDE=0.5 (This means that the algorithm detect the text as negative with a magnitude of 0.5)
+
+for more info, code and results, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb)
+
+
