@@ -56,4 +56,89 @@ For more information about the problem statement, results and the complete code,
 [https://github.com/mrrajatgarg/my_project_works/blob/master/LicensePlateDetection.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/LicensePlateDetection.ipynb)
 
 
+**Natural Language Processing (NLP) Projects***
 
+**1. Building NLP applications using Google Cloud Platform Machine Learning API**
+
+**(A) Optical Character Recognition (OCR)**
+
+The Machine learning API can detect and extract text from images.
+
+Input Image:
+
+![alt text](https://camo.githubusercontent.com/41602270973a9d7640a8f093d4fa4da995cdeb88/68747470733a2f2f692e6962622e636f2f725a56705a324b2f6c65616465727368692e6a7067)
+
+Output text recognition from OCR :
+
+INDUSTRIAL MANAGEMENT ASSIGNMENT
+
+LEADERSHIP
+
+OJASVI ARORA
+
+15)230019
+
+Leadership is interpersonal influence Exercised in a situation
+
+and directed through the communication process towards
+
+the attainment of a specific goal or goals. Merce deadership
+
+is the process of influencing the members of the group
+
+with respect to good setting and goal achievement.
+
+for our purpose leadership may be dassified at 3 levels
+
+Top Managers - The Big Boss
+
+Middle Managers - Simply Boss
+
+Front Live Managers - Foremon and Supervisor
+
+All of them opcrate on different levels and have
+
+ditterent vespers Lilhex and duties having the same problemi
+
+of dealing with people and leading them.
+
+CHARACTERISTICS OF A LEADER
+
+. The leader is constantly interacting and commanding
+
+a part of his
+
+. The leader makes the organization
+
+self image
+
+The leaders personal goals, valeses and feelings are
+
+organizationally centered
+
+The leader handles supervisors as individuale
+
+The leader controls the transmission of important information
+
+The leader emphasis the present and
+
+The leader sete realistic goals.
+
+
+Input Image :
+
+![alt text](https://camo.githubusercontent.com/bb596ee20638d1435a8c4d7939096efd51f5e47f/68747470733a2f2f692e6962622e636f2f463432563331332f706f737465722e6a7067)
+
+Ouptut text recognition from image:
+
+ROUTE
+
+ROADSIDE
+
+OO ATTRACTION
+
+1932 STANDARD OIL GAS STATION, ODELL, ILLINOIS
+
+This restoration is a project of the Route 66 Association of
+
+on the National Register of Historic Places.
