@@ -231,4 +231,14 @@ for more info, results and whole code, visit:
 
 [https://github.com/mrrajatgarg/my_project_works/blob/master/Genre_Classification_Using_End_To_End_2D_CNN_Spectrogram.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Genre_Classification_Using_End_To_End_2D_CNN_Spectrogram.ipynb)
 
+**(C) Multi-label Classification of Audio Music Files**
+
+AIM:
+
+It's a multi-label classification problem (i.e. a particular audio file can have multiple tags associated with it. for ex: - indian, guitar). Given the audio clip, tag the audio clip with appropriate tags.
+
+for more info, results and code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/MultiLabelMusicAutoTagging2DCNNTrainingAndTesting.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/MultiLabelMusicAutoTagging2DCNNTrainingAndTesting.ipynb)
+
 
