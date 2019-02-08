@@ -51,7 +51,9 @@ A red Bounding Box around license plate is created.
 
 ![alt text](https://camo.githubusercontent.com/78a3b55000534fe033c4e312423dd7dadbfbd7c2/68747470733a2f2f692e6962622e636f2f7450356a3239592f6c6963656e73652d706c6174652d646574656374696f6e2d6e65772e6a7067)
 
+For more information about the problem statement, results and the complete code, visit:
 
+[https://github.com/mrrajatgarg/my_project_works/blob/master/LicensePlateDetection.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/LicensePlateDetection.ipynb)
 
 
 
