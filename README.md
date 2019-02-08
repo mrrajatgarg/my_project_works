@@ -190,3 +190,24 @@ for more info, code and results, visit:
 [https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Google_Cloud_Platform_Machine_Learning_API.ipynb)
 
 
+**2. Music Information Retrieval (MIR)**
+
+Defination --
+
+Music Information Retreval (MIR) is centered on finding ways to automate the process of classifying music genre and mood and tagging music.
+
+**(A) Visualization of Audio Files and Plotting amplitute-time and frequency-time plots**
+
+Representation of Audio Wave with Amplitute-time graph
+
+![alt text](https://camo.githubusercontent.com/9168581073c7799e2cf6ec77d221faf2d334918b/68747470733a2f2f692e6962622e636f2f3359706a7750302f77617665666f726d2d312e6a7067)
+
+Representation of Audio Wave with Frequency-time graph (Spectrogram)
+
+Mel-Spectrogram on linear scale:
+
+![alt text](https://camo.githubusercontent.com/9766bc67a23336aeae9f38cf8acf7db0e39a6dcf/68747470733a2f2f692e6962622e636f2f4c64674a6276522f6d656c7370656374726f6772616d2d6c696e6561727363616c652e6a7067)
+
+Mel-Spectrogram on log scale:
+
+![alt text](https://camo.githubusercontent.com/0792d27f0d0405e4e5ec3e38d0b2acb1394de853/68747470733a2f2f692e6962622e636f2f346a677148646a2f6d656c7370656374726f6772616d2d6c6f677363616c652e6a7067)
