@@ -211,3 +211,24 @@ Mel-Spectrogram on linear scale:
 Mel-Spectrogram on log scale:
 
 ![alt text](https://camo.githubusercontent.com/0792d27f0d0405e4e5ec3e38d0b2acb1394de853/68747470733a2f2f692e6962622e636f2f346a677148646a2f6d656c7370656374726f6772616d2d6c6f677363616c652e6a7067)
+
+for more info, results and code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Audio_Data_WaveForm_MelSpectrogram_Librosa.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Audio_Data_WaveForm_MelSpectrogram_Librosa.ipynb)
+
+
+**(B) Genre Classification of Audio Files Using NLP**
+
+AIM:
+
+Given an audio clip of music, we have classify the audio clip into the genre it belongs to. Genres are - blues, classical, country, disco, hiphop, jaz, metal, pop, reggae, rock
+
+Results:
+
+![alt text](https://i.ibb.co/WHTMwNs/curve.jpg)
+
+for more info, results and whole code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Genre_Classification_Using_End_To_End_2D_CNN_Spectrogram.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Genre_Classification_Using_End_To_End_2D_CNN_Spectrogram.ipynb)
+
+
