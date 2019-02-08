@@ -10,5 +10,20 @@ See the project short video here:
 
 [![Watch the video](https://i.ibb.co/NyYQvq4/svr-video.jpg)](https://youtu.be/9bAif774MSQ)
 
+**Computer Vision Projects using Deep Learning Algorithms like Convolutional Neural Networks (CNN)**
 
+**1. Object Detection - Car Detections - Algorithms used in Self-Driving Cars**
 
+An autonomous vehicle needs sensory input devices like cameras, radar and lasers to allow the car to perceive the world around it, creating a digital map. However, this algorithm focused on the imaging where cars perform object detection using state-of-the-art YOLO (You Look Only Once) algorithm. Here’s an example:
+
+![alt text](https://camo.githubusercontent.com/783d685028b244f8d0a53f7874ee88f24dbbb798/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3830302f312a71317556632d4d552d74432d577746703279584a6f772e676966)
+
+**Results from our Model**
+
+Input Image 1 -- street view 1
+
+![alt text](https://camo.githubusercontent.com/97650aa724bffbd75725f6d8c0dc82d5a69d6101/68747470733a2f2f692e6962622e636f2f365059324b31772f6361722d696d6167652d66726f6d2d7374726565742d322e6a7067253232253230616c743d2532326361722d696d6167652d66726f6d2d7374726565742d32)
+
+Result on Image 1 - after Object Detection
+
+![alt text](https://camo.githubusercontent.com/571e2241d3a00ce01ca9313950ab995282d77d20/68747470733a2f2f692e6962622e636f2f4e314e4e6766622f6361722d696d6167652d66726f6d2d7374726565742d322d6e65772e6a7067)
