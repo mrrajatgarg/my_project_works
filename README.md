@@ -241,4 +241,59 @@ for more info, results and code, visit:
 
 [https://github.com/mrrajatgarg/my_project_works/blob/master/MultiLabelMusicAutoTagging2DCNNTrainingAndTesting.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/MultiLabelMusicAutoTagging2DCNNTrainingAndTesting.ipynb)
 
+**3. Chatbots**
 
+will upload a video of that work soon.
+
+**4. Document Similarity**
+
+Information Retrieval systems are used in many applications including Google Search. Document Similarity is about comparing two documents and determining how similar they are based on their semantic meaning. Applications like these are performing very good thanks to advancement of deep learning and natural language processing algorithm.
+
+Following algorithms and research papers and studied and implemented :-
+1. Word2Vec
+2. Doc2Vec
+3. Tf-idf
+
+Results:
+
+will upload soon.
+
+**Website**
+
+It's a blogging website build using Django Framework. See the website:
+
+[http://pythonwebsite.appspot.com/](http://pythonwebsite.appspot.com/)
+
+**Other Machine Learning and Deep Learning Project**
+
+**(A) Machine Learning (Logistic Regression) and Deep Learning (CNN) model for Solving Cat VS Dog Kaggle Challengle**
+
+For more info, results and code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/dogsvscatsCNN_final.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/dogsvscatsCNN_final.ipynb)
+
+[https://github.com/mrrajatgarg/kaggle/blob/master/catVsdogLogisticRegression.ipynb](https://github.com/mrrajatgarg/kaggle/blob/master/catVsdogLogisticRegression.ipynb)
+
+**(B) Handwritten Digit Recognition on MNIST Dataset**
+
+**(C) Recommended Systems**
+
+**Some of my blog**
+
+[Understanding Natural Language Processing (NLP) for your Business](https://medium.com/@mrgarg.rajat/understanding-natural-language-processing-nlp-for-your-business-73ad026817e5)
+
+[Artificial Intelligence(AI) vs Machine Learning(ML) vs Deep Learning(DL)](https://medium.com/@mrgarg.rajat/artificial-intelligence-ai-vs-machine-learning-ml-vs-deep-learning-dl-69429d4375b1)
+
+[Kaggle “Dogs vs. Cats” Challenge — Complete Step by Step Guide — Part 1](https://medium.com/@mrgarg.rajat/kaggle-dogs-vs-cats-challenge-complete-step-by-step-guide-part-1-a347194e55b1)
+
+[Kaggle “Dogs vs. Cats” Challenge — Complete Step by Step Guide — Part 2](https://medium.com/@mrgarg.rajat/kaggle-dogs-vs-cats-challenge-complete-step-by-step-guide-part-2-e9ee4967b9)
+
+[The Right Way To Build A Startup — From Business Perspective](https://medium.com/@mrgarg.rajat/the-right-way-to-build-a-startup-business-perspective-ca319ec798ae)
+
+My Medium Profile:
+
+[https://medium.com/@mrgarg.rajat](https://medium.com/@mrgarg.rajat)
+
+My Linkedin Profile:
+
+[https://in.linkedin.com/in/rajat-garg-968362128](https://in.linkedin.com/in/rajat-garg-968362128)
