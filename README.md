@@ -272,6 +272,10 @@ SImilarity between Document 1 and Document 2: 72%
 
 Similarity between Document 1 and Document 3: 18%
 
+for more info, results and code, visit:
+
+[https://github.com/mrrajatgarg/my_project_works/blob/master/Document_Similarity_using_TF_IDF_Approach.ipynb](https://github.com/mrrajatgarg/my_project_works/blob/master/Document_Similarity_using_TF_IDF_Approach.ipynb)
+
 **Website**
 
 It's a blogging website build by me just for fun using Django Framework. See the website:
